@@ -1,0 +1,8 @@
+MDK-ARM/01 6-step plastik
+MDK-ARM/01*6-step plastik.uvguix.user
+MDK-ARM/01*6-step plastik.uvoptx
+MDK-ARM/01*6-step plastik.uvprojx
+
+# STM32CubeIDE build output
+/STM32CubeIDE/Debug/
+/STM32CubeIDE/Release/
